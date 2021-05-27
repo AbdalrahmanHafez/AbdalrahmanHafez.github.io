@@ -4,8 +4,12 @@ title:  A new project!
 Date:   2021-03-13 11:12:00-0400
 comments: false
 ---
-
-Lately, I found about <a href="https://pages.github.com/">GitHub Pages</a> and became very excited to make my personal website. I found <a href="https://jekyllrb.com/">Jekyll</a> which is somehow very connected to GitHub Pages and provide some themes that can help you with a blog and so on. I then found <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme made by <a href="https://www.cs.cmu.edu/~mshediva/">Alshedivat</a> which is also an amazing theme as it is intended for academics and provides a page for blogs and is very organized and easy to use. Take a look at the theme <a href="https://alshedivat.github.io/al-folio/" target="_blank">here</a>.
+Lately, I found about <a href="https://pages.github.com/">GitHub Pages</a> and became very excited to make my personal website. 
+I found <a href="https://jekyllrb.com/">Jekyll</a> which is somehow very connected to GitHub Pages and provides some themes that can help you 
+with a blog and so on. I then found <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme made by 
+<a href="https://www.cs.cmu.edu/~mshediva/">Alshedivat</a> which is also an amazing theme as it is intended for academics and provides 
+a page for blogs and is very organized and easy to use. Take a look at the theme 
+<a href="https://alshedivat.github.io/al-folio/" target="_blank">here</a>.
 
 I cloned the theme right away and started customizing by disabling the unneeded but great features and there we go, as simple as that. The posts in the blog come with a lot of features and additions that are really great, the posts can have 
 - comments, 
