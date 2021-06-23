@@ -3,10 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hadi 
-middle_name: A.
-last_name: Elnemr
-email: hadi.elnemr@gmail.com
+first_name: abdelrahman 
+last_name: Hafez
+email: dahomyhafiz999@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -15,7 +14,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon: 🎓 # the emoji used as the favicon
-url: 'https://hadielnemr.github.io/' # the base hostname & protocol for your site
+url: 'https://abdohafez.github.io/' # the base hostname & protocol for your site
 baseurl: '' #al-folio # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -43,12 +42,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: HadiElnemr # your GitHub user name
+github_username: AbdalrahmanHafez # your GitHub user name
 twitter_username: # your Twitter handle
-facebook_username: hadi.elnimr
-linkedin_username: Hadi-Elnemr # your LinkedIn user name
-youtube_channel: UC_04k57VCkx_Ve3M49r7zxA
-facebook_username: hadi.elnimr
+facebook_username: #hadi.elnimr
+linkedin_username: abdalrahmanhafez # your LinkedIn user name
+youtube_channel: #UC_04k57VCkx_Ve3M49r7zxA
+facebook_username: #hadi.elnimr
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -62,7 +61,7 @@ wikidata_id: # your wikidata id
 
 contact_note: >
    Please don't hesitate to contact me on any platform
-google_analytics: G-G5KYEYEV7L # out your google-analytics code
+google_analytics: G-1NPDG06V7K # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -78,7 +77,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: Hadi Elnemr # put your disqus shortname
+disqus_shortname: Abdelrahman Hafez # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -144,8 +143,8 @@ plugins:
 
 scholar:
 
-  last_name: Elnemr 
-  first_name: [Hadi, A.]
+  last_name: Hafez 
+  first_name: [Abdelrahman]
 
   style: apa
   locale: en
